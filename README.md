@@ -93,8 +93,8 @@ LLM_MODEL=gpt-4o
 **Ví dụ với Qwen qua proxy:**
 ```bash
 LLM_API_KEY=sk-...
-LLM_BASE_URL=https://proxy.onebot.meobeo.ai/v1
-LLM_MODEL=hosted_vllm/Qwen/Qwen3.5-35B-A3B-FP8
+LLM_BASE_URL=
+LLM_MODEL=
 ```
 
 > Model phải hỗ trợ **function calling** (OpenAI tool use format) để agent loop hoạt động.
