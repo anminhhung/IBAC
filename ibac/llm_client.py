@@ -8,10 +8,32 @@ Dùng cho cả Intent Parser và Agent chính.
 from __future__ import annotations
 
 import os
+from dataclasses import dataclass, field
+from typing import Any
+
 from dotenv import load_dotenv
 from openai import OpenAI
 
 load_dotenv()
+
+
+# ---------------------------------------------------------------------------
+# Response types cho complete_with_tools
+# ---------------------------------------------------------------------------
+
+@dataclass
+class ToolCall:
+    """Một tool call từ LLM."""
+    id: str
+    name: str
+    arguments: dict[str, Any]
+
+
+@dataclass
+class LLMResponse:
+    """Response từ LLM, có thể chứa tool_calls hoặc text thuần."""
+    content: str | None
+    tool_calls: list[ToolCall] = field(default_factory=list)
 
 
 class QwenClient:
@@ -46,3 +68,35 @@ class QwenClient:
             },
         )
         return response.choices[0].message.content
+
+    def complete_with_tools(
+        self,
+        messages: list[dict],
+        tools: list[dict],
+    ) -> LLMResponse:
+        """
+        Gửi messages + tool definitions, trả về LLMResponse.
+        Nếu LLM quyết định gọi tool → LLMResponse.tool_calls có giá trị.
+        Nếu LLM trả lời trực tiếp → LLMResponse.content có giá trị.
+        """
+        import json as _json
+        response = self._client.chat.completions.create(
+            model=self._model,
+            messages=messages,
+            tools=tools,
+            tool_choice="auto",
+            extra_body={
+                "cache": {"no-cache": True},
+                "chat_template_kwargs": {"enable_thinking": False},
+            },
+        )
+        msg = response.choices[0].message
+        tool_calls: list[ToolCall] = []
+        if msg.tool_calls:
+            for tc in msg.tool_calls:
+                try:
+                    args = _json.loads(tc.function.arguments)
+                except (_json.JSONDecodeError, AttributeError):
+                    args = {}
+                tool_calls.append(ToolCall(id=tc.id, name=tc.function.name, arguments=args))
+        return LLMResponse(content=msg.content, tool_calls=tool_calls)

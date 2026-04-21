@@ -1,0 +1,21 @@
+Product_Name,SKU,Category,Brand,Supplier,Cost_Price,Selling_Price,Profit_Margin_Percent,Stock_Quantity,Reorder_Level,Launch_Date,Warranty_Months,Avg_Rating,Total_Reviews
+iPhone 14 Pro,APP3194,Điện thoại,Apple,Điện máy Xanh,800000,1200000,50.0,70,20,2022-01-22,6,3.8,1470
+Samsung Galaxy S23,SAM3316,Điện thoại,Samsung,Sendo,600000,900000,50.0,208,31,2022-06-20,12,4.4,916
+iPad Air,APP4043,Tablet,Apple,Hoàng Hà Mobile,500000,800000,60.0,335,39,2022-08-09,12,4.3,1052
+MacBook Pro M2,APP5732,Laptop,Apple,CellphoneS,1200000,1800000,50.0,105,25,2022-10-24,24,4.4,1822
+Dell XPS 13,DEL6882,Laptop,Dell,Công ty TNHH FPT,800000,1200000,50.0,258,13,2021-11-26,24,4.9,1085
+Apple Watch Series 8,APP9109,Phụ kiện,Apple,Viettel Store,250000,400000,60.0,360,36,2022-03-19,24,4.2,219
+AirPods Pro,APP1505,Phụ kiện,Apple,Phong Vũ,150000,250000,66.67,159,7,2022-01-06,12,4.3,394
+Sony WH-1000XM4,SON8492,TV & Audio,Sony,Lazada Vietnam,200000,300000,50.0,390,36,2022-05-27,36,3.7,283
+Canon EOS R5,CAN5389,Camera,Canon,Sendo,2000000,3000000,50.0,431,28,2022-05-23,6,4.6,953
+Nintendo Switch,NIN9951,Gaming,Nintendo,Phong Vũ,200000,350000,75.0,227,11,2022-08-30,12,3.9,116
+PS5 Console,SON8368,Gaming,Sony,Nguyễn Kim,400000,650000,62.5,188,10,2022-03-31,6,4.7,535
+Xbox Series X,MIC4438,Gaming,Microsoft,Lazada Vietnam,350000,550000,57.14,362,27,2022-11-02,36,4.4,389
+"LG OLED TV 55""",LG3281,TV & Audio,LG,Phong Vũ,1000000,1500000,50.0,426,18,2022-10-05,6,4.4,1140
+"Samsung Monitor 27""",SAM5605,Phụ kiện,Samsung,Lazada Vietnam,300000,450000,50.0,285,15,2022-01-31,18,3.9,597
+Logitech MX Master 3,LOG9428,Phụ kiện,Logitech,Thế Giới Di Động,50000,80000,60.0,79,31,2022-12-02,6,5.0,1825
+Razer Gaming Keyboard,RAZ3078,Gaming,Razer,CellphoneS,100000,150000,50.0,137,14,2022-08-18,18,4.7,1609
+HP Printer LaserJet,HP7434,Phụ kiện,HP,Hoàng Hà Mobile,200000,300000,50.0,82,41,2022-07-08,18,4.4,818
+Xiaomi Mi Band 7,XIA8405,Phụ kiện,Xiaomi,Thế Giới Di Động,30000,50000,66.67,334,10,2022-03-13,36,4.6,1472
+GoPro Hero 11,GOP7046,Camera,GoPro,Hoàng Hà Mobile,300000,450000,50.0,496,36,2022-02-02,36,3.5,1635
+Tesla Model Y,TES2526,Ô tô,Tesla,Hoàng Hà Mobile,1500000000,2000000000,33.33,335,47,2022-08-11,18,4.8,1679

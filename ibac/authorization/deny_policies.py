@@ -25,6 +25,9 @@ DEFAULT_POLICIES: list[DenyPolicy] = [
     DenyPolicy(agent="*",      tool="*",       resource="~/.ssh/*", reason="Cấm truy cập SSH keys"),
     DenyPolicy(agent="*",      tool="*",       resource="~/.env*",  reason="Cấm đọc file .env chứa secrets"),
     DenyPolicy(agent="*",      tool="delete",  resource="/*",       reason="Cấm xóa file ở root path"),
+    # Data agent: không bao giờ cho phép xóa hoặc ghi đè dữ liệu gốc
+    DenyPolicy(agent="data",   tool="delete",  resource="*",        reason="Cấm xóa file dữ liệu"),
+    DenyPolicy(agent="data",   tool="write",   resource="*",        reason="Cấm ghi đè file dữ liệu gốc"),
 ]
 
 

@@ -57,11 +57,14 @@ STRICT MODE rules:
   If a name is not in the contacts map, use the name as-is in the resource field.
 
 Available agents and tools:
-  email:   send, read, search, delete
-  file:    read, write, search, delete
+  email:    send, read, search, delete
+  file:     read, write, search, delete
   calendar: read, create, search, delete
   contacts: lookup, search
-  web:     search
+  web:      search
+  data:     read, query, aggregate
+    Resources: sales_data.csv, customer_demographics.csv, product_catalog.csv,
+               regional_sales.csv, sales_channels.csv, campaign_performance.csv
 
 Output valid JSON only, no markdown, no explanation. Schema:
 {
@@ -85,11 +88,14 @@ PERMISSIVE MODE rules:
 - When the user names a person, resolve them using the contacts map provided.
 
 Available agents and tools:
-  email:   send, read, search, delete
-  file:    read, write, search, delete
+  email:    send, read, search, delete
+  file:     read, write, search, delete
   calendar: read, create, search, delete
   contacts: lookup, search
-  web:     search
+  web:      search
+  data:     read, query, aggregate
+    Resources: sales_data.csv, customer_demographics.csv, product_catalog.csv,
+               regional_sales.csv, sales_channels.csv, campaign_performance.csv
 
 Output valid JSON only, no markdown, no explanation. Schema:
 {

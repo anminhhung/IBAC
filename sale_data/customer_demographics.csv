@@ -1,0 +1,121 @@
+Customer_Name,Age_Group,Gender,Education_Level,Occupation,Income_Range,Marital_Status,Region,Registration_Date,Total_Purchase_Count,Total_Amount_Spent,Avg_Order_Value,Loyalty_Points,Preferred_Channels
+Nguyễn Văn An,36-45,Nữ,Thạc sĩ,Freelancer,5-10 triệu,Ly hôn,Huế,2022-06-10,11,9052682,822971.0,3066,Email Marketing
+Trần Thị Bình,18-25,Nam,THPT,Giáo viên,30-50 triệu,Độc thân,Nha Trang,2022-03-08,9,2512627,279181.0,4804,"Social Media, Điện thoại, Email Marketing"
+Lê Văn Cường,18-25,Nữ,Đại học,Freelancer,5-10 triệu,Ly hôn,Hải Phòng,2022-06-30,2,19891727,9945864.0,4156,Cửa hàng
+Phạm Thị Dung,65+,Nữ,Cao đẳng,Giáo viên,20-30 triệu,Ly hôn,Hồ Chí Minh,2022-05-23,10,8088639,808864.0,3515,"Social Media, Online, Điện thoại"
+Hoàng Văn Em,65+,Khác,Đại học,Nhân viên văn phòng,10-20 triệu,Ly hôn,Hải Phòng,2022-06-23,6,704876,117479.0,1486,Social Media
+Vũ Thị Phương,65+,Nữ,THPT,Bác sĩ,5-10 triệu,Độc thân,Cần Thơ,2022-07-12,7,15721826,2245975.0,2792,Điện thoại
+Đặng Văn Giang,36-45,Khác,Đại học,Hưu trí,Trên 50 triệu,Độc thân,Hà Nội,2022-03-21,3,2169752,723251.0,668,"Email Marketing, Social Media"
+Bùi Thị Hạnh,46-55,Khác,Thạc sĩ,Freelancer,20-30 triệu,Kết hôn,Hồ Chí Minh,2022-06-26,7,4220843,602978.0,2320,"Social Media, Email Marketing, Điện thoại"
+Lý Văn Inh,65+,Nữ,THPT,Kỹ sư,30-50 triệu,Độc thân,Hà Nội,2022-04-15,5,7587836,1517567.0,1124,"Điện thoại, Social Media"
+Ngô Thị Khánh,18-25,Nam,Thạc sĩ,Freelancer,10-20 triệu,Kết hôn,Huế,2022-09-30,12,8221234,685103.0,4098,"Điện thoại, Online, Cửa hàng"
+Đinh Văn Lâm,65+,Nam,Thạc sĩ,Nhân viên văn phòng,30-50 triệu,Độc thân,Nha Trang,2022-10-22,7,19740100,2820014.0,3313,"Email Marketing, Điện thoại, Online"
+Mai Thị Minh,46-55,Nam,Đại học,Bác sĩ,Trên 50 triệu,Góa phụ,Nha Trang,2022-02-15,7,4052177,578882.0,1993,"Social Media, Email Marketing"
+Tạ Văn Nam,56-65,Nam,Thạc sĩ,Kinh doanh,20-30 triệu,Kết hôn,Nha Trang,2022-03-28,2,17628976,8814488.0,934,"Social Media, Cửa hàng, Email Marketing"
+Chu Thị Oanh,36-45,Khác,Cao đẳng,Kỹ sư,5-10 triệu,Kết hôn,Hải Phòng,2022-04-12,3,5629458,1876486.0,617,Email Marketing
+Dương Văn Phúc,46-55,Khác,Tiến sĩ,Quản lý,Trên 50 triệu,Ly hôn,Nha Trang,2022-03-19,8,2791306,348913.0,3841,"Điện thoại, Social Media"
+Trịnh Thị Quỳnh,56-65,Nam,Đại học,Công nhân,5-10 triệu,Ly hôn,Vũng Tàu,2022-08-20,1,2408913,2408913.0,3020,"Online, Social Media"
+Phan Văn Rồng,56-65,Khác,Tiến sĩ,Freelancer,30-50 triệu,Độc thân,Vũng Tàu,2022-10-20,11,6816268,619661.0,2633,"Email Marketing, Cửa hàng, Online"
+Võ Thị Sương,46-55,Nam,Đại học,Giáo viên,Trên 50 triệu,Kết hôn,Hà Nội,2022-05-07,12,15188730,1265728.0,3599,"Social Media, Cửa hàng, Email Marketing"
+Lương Văn Tuấn,36-45,Nữ,Thạc sĩ,Freelancer,20-30 triệu,Độc thân,Nha Trang,2022-02-03,6,3671093,611849.0,4570,"Email Marketing, Điện thoại, Cửa hàng"
+Hồ Thị Uyên,65+,Khác,Tiến sĩ,Bác sĩ,20-30 triệu,Độc thân,Đà Nẵng,2022-06-29,5,13651927,2730385.0,1056,"Online, Điện thoại, Email Marketing"
+Cao Văn Vinh,46-55,Khác,Đại học,Bác sĩ,Trên 50 triệu,Độc thân,Huế,2022-09-18,6,1111715,185286.0,2970,"Cửa hàng, Social Media"
+Lê Thị Xuân,36-45,Nữ,Cao đẳng,Kỹ sư,10-20 triệu,Kết hôn,Hồ Chí Minh,2022-06-01,14,3893720,278123.0,4158,"Social Media, Online, Điện thoại"
+Nguyễn Văn Yên,36-45,Khác,Cao đẳng,Hưu trí,30-50 triệu,Kết hôn,Đà Nẵng,2022-04-03,14,6054572,432469.0,3585,Email Marketing
+Trần Thị Zung,36-45,Khác,Cao đẳng,Quản lý,Trên 50 triệu,Ly hôn,Vũng Tàu,2022-04-30,9,8525163,947240.0,2535,"Cửa hàng, Điện thoại"
+Phạm Văn Ánh,65+,Khác,Thạc sĩ,Quản lý,20-30 triệu,Góa phụ,Huế,2022-03-24,14,7200743,514339.0,4953,Điện thoại
+Nguyễn Văn An,18-25,Khác,Thạc sĩ,Học sinh/Sinh viên,Trên 50 triệu,Độc thân,Hồ Chí Minh,2022-05-26,2,5879189,2939594.0,2234,"Social Media, Cửa hàng"
+Trần Thị Bình,46-55,Nam,Cao đẳng,Quản lý,20-30 triệu,Độc thân,Huế,2022-01-28,7,17344563,2477795.0,3063,Email Marketing
+Lê Văn Cường,18-25,Nữ,Cao đẳng,Nhân viên văn phòng,20-30 triệu,Độc thân,Nha Trang,2022-03-16,3,1785241,595080.0,2350,"Cửa hàng, Email Marketing"
+Phạm Thị Dung,46-55,Khác,THPT,Giáo viên,5-10 triệu,Ly hôn,Cần Thơ,2022-03-18,9,18209073,2023230.0,3467,Điện thoại
+Hoàng Văn Em,26-35,Nữ,THPT,Nhân viên văn phòng,10-20 triệu,Góa phụ,Vũng Tàu,2022-02-02,2,17271485,8635742.0,4888,"Online, Cửa hàng, Điện thoại"
+Vũ Thị Phương,26-35,Nữ,Thạc sĩ,Nhân viên văn phòng,Trên 50 triệu,Ly hôn,Cần Thơ,2022-10-20,7,6785211,969316.0,701,"Điện thoại, Online, Social Media"
+Đặng Văn Giang,56-65,Khác,Tiến sĩ,Công nhân,5-10 triệu,Góa phụ,Vũng Tàu,2022-01-23,11,13481582,1225598.0,3058,"Online, Điện thoại"
+Bùi Thị Hạnh,18-25,Nữ,Cao đẳng,Giáo viên,Trên 50 triệu,Ly hôn,Đà Nẵng,2022-01-23,6,18821181,3136864.0,2773,"Cửa hàng, Email Marketing, Điện thoại"
+Lý Văn Inh,46-55,Khác,Cao đẳng,Bác sĩ,5-10 triệu,Góa phụ,Hà Nội,2022-05-31,4,1969894,492474.0,1634,Điện thoại
+Ngô Thị Khánh,36-45,Khác,Thạc sĩ,Công nhân,30-50 triệu,Ly hôn,Hà Nội,2022-11-28,4,10100288,2525072.0,2924,Điện thoại
+Đinh Văn Lâm,36-45,Nam,Đại học,Freelancer,30-50 triệu,Góa phụ,Huế,2022-06-23,3,17149817,5716606.0,4075,"Social Media, Điện thoại"
+Mai Thị Minh,18-25,Khác,Thạc sĩ,Giáo viên,30-50 triệu,Kết hôn,Hải Phòng,2022-06-14,2,3186666,1593333.0,2686,"Điện thoại, Social Media, Cửa hàng"
+Tạ Văn Nam,56-65,Khác,Thạc sĩ,Bác sĩ,30-50 triệu,Ly hôn,Vũng Tàu,2022-01-22,12,12329927,1027494.0,3563,"Online, Social Media"
+Chu Thị Oanh,65+,Khác,Thạc sĩ,Học sinh/Sinh viên,Trên 50 triệu,Kết hôn,Hà Nội,2022-03-15,14,15202640,1085903.0,285,Online
+Dương Văn Phúc,26-35,Khác,Đại học,Học sinh/Sinh viên,30-50 triệu,Độc thân,Đà Nẵng,2022-12-14,8,12947503,1618438.0,3047,"Online, Cửa hàng"
+Trịnh Thị Quỳnh,56-65,Nữ,Thạc sĩ,Học sinh/Sinh viên,20-30 triệu,Kết hôn,Hồ Chí Minh,2022-01-14,12,6742736,561895.0,4088,"Email Marketing, Online, Cửa hàng"
+Phan Văn Rồng,36-45,Khác,Thạc sĩ,Kỹ sư,Trên 50 triệu,Ly hôn,Vũng Tàu,2022-04-13,2,5054289,2527144.0,606,"Cửa hàng, Email Marketing"
+Võ Thị Sương,18-25,Khác,Đại học,Học sinh/Sinh viên,5-10 triệu,Ly hôn,Hải Phòng,2022-03-22,12,6341524,528460.0,2961,"Cửa hàng, Online, Email Marketing"
+Lương Văn Tuấn,26-35,Nam,Thạc sĩ,Nhân viên văn phòng,20-30 triệu,Ly hôn,Vũng Tàu,2022-10-10,3,3392911,1130970.0,538,"Email Marketing, Social Media"
+Hồ Thị Uyên,56-65,Nữ,Thạc sĩ,Hưu trí,5-10 triệu,Kết hôn,Nha Trang,2022-11-25,2,15598638,7799319.0,3816,"Social Media, Điện thoại, Online"
+Cao Văn Vinh,56-65,Khác,Tiến sĩ,Bác sĩ,10-20 triệu,Góa phụ,Hà Nội,2022-03-05,9,5634347,626039.0,2491,Cửa hàng
+Lê Thị Xuân,36-45,Khác,Cao đẳng,Học sinh/Sinh viên,Trên 50 triệu,Ly hôn,Hồ Chí Minh,2022-05-09,4,18983170,4745792.0,2248,Điện thoại
+Nguyễn Văn Yên,56-65,Khác,THPT,Công nhân,10-20 triệu,Kết hôn,Đà Nẵng,2022-12-04,10,11828633,1182863.0,4617,Online
+Trần Thị Zung,18-25,Nam,Tiến sĩ,Kinh doanh,10-20 triệu,Góa phụ,Hà Nội,2022-09-12,15,18806542,1253769.0,2372,"Điện thoại, Email Marketing, Online"
+Phạm Văn Ánh,65+,Nữ,Đại học,Quản lý,5-10 triệu,Độc thân,Đà Nẵng,2022-08-14,7,16748771,2392682.0,3804,Điện thoại
+Nguyễn Văn An,56-65,Nam,Đại học,Học sinh/Sinh viên,20-30 triệu,Góa phụ,Đà Nẵng,2022-07-09,9,19345887,2149543.0,869,"Cửa hàng, Email Marketing"
+Trần Thị Bình,18-25,Nữ,Thạc sĩ,Kỹ sư,10-20 triệu,Độc thân,Hà Nội,2022-05-29,7,14530273,2075753.0,2033,Điện thoại
+Lê Văn Cường,56-65,Khác,Đại học,Kỹ sư,10-20 triệu,Góa phụ,Vũng Tàu,2022-09-13,15,10852900,723527.0,4074,Online
+Phạm Thị Dung,46-55,Khác,Thạc sĩ,Kỹ sư,10-20 triệu,Ly hôn,Hà Nội,2022-01-26,5,17105893,3421179.0,4894,"Email Marketing, Điện thoại, Social Media"
+Hoàng Văn Em,18-25,Nam,Thạc sĩ,Bác sĩ,20-30 triệu,Ly hôn,Huế,2022-07-07,1,13941288,13941288.0,419,"Social Media, Cửa hàng, Email Marketing"
+Vũ Thị Phương,56-65,Nữ,THPT,Freelancer,Trên 50 triệu,Góa phụ,Hải Phòng,2022-11-16,11,4486636,407876.0,1054,Email Marketing
+Đặng Văn Giang,36-45,Nữ,Tiến sĩ,Học sinh/Sinh viên,10-20 triệu,Kết hôn,Huế,2022-09-14,1,2020128,2020128.0,318,Điện thoại
+Bùi Thị Hạnh,46-55,Khác,Thạc sĩ,Bác sĩ,Trên 50 triệu,Kết hôn,Nha Trang,2022-11-10,6,5952663,992110.0,3219,"Điện thoại, Social Media, Email Marketing"
+Lý Văn Inh,56-65,Khác,Thạc sĩ,Hưu trí,20-30 triệu,Góa phụ,Hà Nội,2022-07-08,6,4177719,696286.0,3412,"Điện thoại, Online, Social Media"
+Ngô Thị Khánh,46-55,Nữ,Tiến sĩ,Hưu trí,10-20 triệu,Độc thân,Vũng Tàu,2022-03-29,9,13257070,1473008.0,1210,"Cửa hàng, Online, Điện thoại"
+Đinh Văn Lâm,65+,Nam,Cao đẳng,Nhân viên văn phòng,30-50 triệu,Ly hôn,Huế,2022-03-19,7,7341469,1048781.0,3361,"Social Media, Email Marketing, Điện thoại"
+Mai Thị Minh,65+,Nam,Cao đẳng,Công nhân,10-20 triệu,Ly hôn,Vũng Tàu,2022-09-27,7,11027790,1575399.0,1418,"Social Media, Điện thoại"
+Tạ Văn Nam,56-65,Nữ,Đại học,Hưu trí,30-50 triệu,Kết hôn,Cần Thơ,2022-05-23,9,10515969,1168441.0,1842,"Điện thoại, Cửa hàng"
+Chu Thị Oanh,65+,Khác,Thạc sĩ,Học sinh/Sinh viên,30-50 triệu,Ly hôn,Hải Phòng,2022-05-28,2,19742688,9871344.0,4449,"Email Marketing, Điện thoại"
+Dương Văn Phúc,26-35,Nữ,THPT,Kinh doanh,5-10 triệu,Ly hôn,Vũng Tàu,2022-12-02,5,16575232,3315046.0,1752,Social Media
+Trịnh Thị Quỳnh,36-45,Khác,Đại học,Bác sĩ,5-10 triệu,Kết hôn,Cần Thơ,2022-01-26,11,18318795,1665345.0,1848,"Cửa hàng, Online, Email Marketing"
+Phan Văn Rồng,46-55,Nữ,Thạc sĩ,Giáo viên,10-20 triệu,Độc thân,Đà Nẵng,2022-07-28,11,16461831,1496530.0,3911,"Cửa hàng, Điện thoại, Social Media"
+Võ Thị Sương,36-45,Khác,THPT,Giáo viên,Trên 50 triệu,Kết hôn,Hà Nội,2022-03-31,7,6398490,914070.0,297,"Email Marketing, Cửa hàng"
+Lương Văn Tuấn,65+,Nữ,THPT,Nhân viên văn phòng,20-30 triệu,Độc thân,Nha Trang,2022-05-26,8,18730139,2341267.0,4295,"Cửa hàng, Email Marketing"
+Hồ Thị Uyên,36-45,Nam,THPT,Học sinh/Sinh viên,10-20 triệu,Góa phụ,Hải Phòng,2022-04-06,1,11811607,11811607.0,2416,"Cửa hàng, Social Media, Điện thoại"
+Cao Văn Vinh,65+,Nữ,Thạc sĩ,Công nhân,20-30 triệu,Độc thân,Huế,2022-12-09,2,6700228,3350114.0,1151,"Điện thoại, Cửa hàng"
+Lê Thị Xuân,18-25,Nữ,Thạc sĩ,Kỹ sư,30-50 triệu,Ly hôn,Nha Trang,2022-06-04,10,19722574,1972257.0,93,"Điện thoại, Cửa hàng"
+Nguyễn Văn Yên,18-25,Khác,THPT,Quản lý,20-30 triệu,Kết hôn,Huế,2022-12-18,9,10934688,1214965.0,961,"Điện thoại, Social Media, Email Marketing"
+Trần Thị Zung,26-35,Nam,Cao đẳng,Quản lý,10-20 triệu,Góa phụ,Nha Trang,2022-08-01,12,18929251,1577438.0,3857,"Cửa hàng, Social Media, Điện thoại"
+Phạm Văn Ánh,56-65,Nam,Tiến sĩ,Quản lý,Trên 50 triệu,Ly hôn,Hồ Chí Minh,2022-10-16,2,2572256,1286128.0,4486,"Cửa hàng, Social Media, Online"
+Nguyễn Văn An,36-45,Khác,Thạc sĩ,Giáo viên,10-20 triệu,Góa phụ,Hồ Chí Minh,2022-09-19,8,2366827,295853.0,3714,Social Media
+Trần Thị Bình,46-55,Nữ,Tiến sĩ,Nhân viên văn phòng,Trên 50 triệu,Góa phụ,Hải Phòng,2022-01-12,7,9038167,1291167.0,24,"Cửa hàng, Online, Email Marketing"
+Lê Văn Cường,46-55,Nữ,THPT,Công nhân,5-10 triệu,Độc thân,Vũng Tàu,2022-01-17,5,14219297,2843859.0,1474,Email Marketing
+Phạm Thị Dung,36-45,Nữ,Thạc sĩ,Freelancer,30-50 triệu,Độc thân,Đà Nẵng,2022-12-01,14,12169221,869230.0,971,Social Media
+Hoàng Văn Em,46-55,Khác,Cao đẳng,Kỹ sư,5-10 triệu,Độc thân,Hải Phòng,2022-08-26,11,18768554,1706232.0,3474,"Email Marketing, Cửa hàng, Online"
+Vũ Thị Phương,46-55,Nữ,Cao đẳng,Kinh doanh,10-20 triệu,Độc thân,Hà Nội,2022-12-05,7,1024985,146426.0,1971,Online
+Đặng Văn Giang,18-25,Khác,THPT,Quản lý,Trên 50 triệu,Độc thân,Cần Thơ,2022-01-23,7,15229147,2175592.0,1919,"Cửa hàng, Online, Email Marketing"
+Bùi Thị Hạnh,56-65,Nữ,Cao đẳng,Hưu trí,20-30 triệu,Ly hôn,Cần Thơ,2022-06-04,15,5307022,353801.0,4270,Email Marketing
+Lý Văn Inh,36-45,Nữ,THPT,Công nhân,Trên 50 triệu,Kết hôn,Huế,2022-10-12,8,2073169,259146.0,2821,"Email Marketing, Điện thoại, Social Media"
+Ngô Thị Khánh,46-55,Nữ,Cao đẳng,Kinh doanh,30-50 triệu,Kết hôn,Vũng Tàu,2022-05-04,14,8061308,575808.0,2463,"Cửa hàng, Email Marketing, Online"
+Đinh Văn Lâm,56-65,Nữ,Thạc sĩ,Công nhân,Trên 50 triệu,Kết hôn,Huế,2022-05-05,5,7322848,1464570.0,2705,"Online, Email Marketing, Cửa hàng"
+Mai Thị Minh,18-25,Khác,Cao đẳng,Nhân viên văn phòng,20-30 triệu,Góa phụ,Hà Nội,2022-02-07,4,19251910,4812978.0,1777,"Cửa hàng, Điện thoại"
+Tạ Văn Nam,36-45,Nam,Cao đẳng,Kỹ sư,5-10 triệu,Góa phụ,Cần Thơ,2022-12-23,10,7362322,736232.0,3249,Social Media
+Chu Thị Oanh,36-45,Nữ,Thạc sĩ,Quản lý,Trên 50 triệu,Ly hôn,Hải Phòng,2022-05-14,6,17707267,2951211.0,4073,"Online, Email Marketing"
+Dương Văn Phúc,36-45,Nam,Đại học,Học sinh/Sinh viên,30-50 triệu,Độc thân,Cần Thơ,2022-03-16,1,9250127,9250127.0,4532,"Social Media, Email Marketing, Cửa hàng"
+Trịnh Thị Quỳnh,26-35,Nam,Đại học,Kỹ sư,30-50 triệu,Kết hôn,Vũng Tàu,2022-10-09,11,11826777,1075162.0,2108,"Email Marketing, Social Media"
+Phan Văn Rồng,26-35,Khác,Đại học,Bác sĩ,10-20 triệu,Góa phụ,Đà Nẵng,2022-10-05,11,2470720,224611.0,4292,Online
+Võ Thị Sương,65+,Nam,THPT,Freelancer,10-20 triệu,Kết hôn,Hồ Chí Minh,2022-12-29,3,806736,268912.0,1791,"Email Marketing, Điện thoại, Online"
+Lương Văn Tuấn,56-65,Khác,Tiến sĩ,Quản lý,30-50 triệu,Độc thân,Hà Nội,2022-09-30,9,14302230,1589137.0,97,Social Media
+Hồ Thị Uyên,65+,Nữ,Tiến sĩ,Kinh doanh,5-10 triệu,Góa phụ,Đà Nẵng,2022-02-24,15,3731757,248784.0,4295,Cửa hàng
+Cao Văn Vinh,26-35,Khác,Tiến sĩ,Kinh doanh,20-30 triệu,Ly hôn,Huế,2022-02-10,6,14124019,2354003.0,3760,"Cửa hàng, Social Media, Email Marketing"
+Lê Thị Xuân,65+,Nam,THPT,Giáo viên,30-50 triệu,Góa phụ,Huế,2022-10-10,8,2382904,297863.0,77,"Cửa hàng, Online, Social Media"
+Nguyễn Văn Yên,46-55,Khác,Đại học,Hưu trí,5-10 triệu,Độc thân,Cần Thơ,2022-04-19,15,19518120,1301208.0,3895,"Online, Social Media"
+Trần Thị Zung,65+,Nữ,Tiến sĩ,Hưu trí,5-10 triệu,Kết hôn,Nha Trang,2022-01-09,4,5338265,1334566.0,3262,Điện thoại
+Phạm Văn Ánh,26-35,Khác,Cao đẳng,Hưu trí,30-50 triệu,Ly hôn,Huế,2022-03-13,13,3131596,240892.0,4102,"Điện thoại, Online, Email Marketing"
+Nguyễn Văn An,46-55,Nam,THPT,Học sinh/Sinh viên,Trên 50 triệu,Góa phụ,Nha Trang,2022-01-16,11,9671333,879212.0,3690,"Cửa hàng, Điện thoại"
+Trần Thị Bình,56-65,Nữ,Thạc sĩ,Bác sĩ,Trên 50 triệu,Góa phụ,Hồ Chí Minh,2022-11-13,5,8769482,1753896.0,602,Điện thoại
+Lê Văn Cường,26-35,Nữ,Cao đẳng,Freelancer,20-30 triệu,Ly hôn,Hồ Chí Minh,2022-02-16,1,10843739,10843739.0,3643,"Điện thoại, Online"
+Phạm Thị Dung,26-35,Nam,Cao đẳng,Freelancer,30-50 triệu,Góa phụ,Hồ Chí Minh,2022-01-14,2,12375392,6187696.0,4540,Social Media
+Hoàng Văn Em,56-65,Nữ,Thạc sĩ,Nhân viên văn phòng,20-30 triệu,Góa phụ,Huế,2022-02-13,12,19274930,1606244.0,1988,"Social Media, Cửa hàng, Điện thoại"
+Vũ Thị Phương,46-55,Nam,Cao đẳng,Kinh doanh,20-30 triệu,Ly hôn,Vũng Tàu,2022-03-16,2,6110549,3055274.0,3560,"Email Marketing, Điện thoại"
+Đặng Văn Giang,46-55,Nam,Đại học,Kinh doanh,10-20 triệu,Góa phụ,Cần Thơ,2022-08-23,2,5046274,2523137.0,2495,Email Marketing
+Bùi Thị Hạnh,36-45,Khác,Thạc sĩ,Học sinh/Sinh viên,30-50 triệu,Ly hôn,Huế,2022-11-30,10,5067579,506758.0,2461,"Social Media, Cửa hàng"
+Lý Văn Inh,46-55,Nữ,Cao đẳng,Freelancer,20-30 triệu,Ly hôn,Vũng Tàu,2022-10-22,13,8634409,664185.0,2669,"Điện thoại, Email Marketing"
+Ngô Thị Khánh,36-45,Nam,Tiến sĩ,Kỹ sư,Trên 50 triệu,Kết hôn,Hà Nội,2022-08-25,12,7534632,627886.0,3591,"Online, Email Marketing"
+Đinh Văn Lâm,65+,Nữ,Cao đẳng,Kinh doanh,10-20 triệu,Ly hôn,Đà Nẵng,2022-08-05,13,13149712,1011516.0,605,"Social Media, Email Marketing"
+Mai Thị Minh,56-65,Nữ,Tiến sĩ,Công nhân,30-50 triệu,Độc thân,Nha Trang,2022-12-26,15,18515575,1234372.0,4864,"Online, Social Media, Email Marketing"
+Tạ Văn Nam,65+,Khác,Đại học,Bác sĩ,Trên 50 triệu,Độc thân,Huế,2022-06-19,13,14943691,1149515.0,867,Online
+Chu Thị Oanh,36-45,Nam,Tiến sĩ,Công nhân,Trên 50 triệu,Kết hôn,Vũng Tàu,2022-07-11,7,16037822,2291117.0,4821,"Social Media, Cửa hàng, Email Marketing"
+Dương Văn Phúc,18-25,Nữ,THPT,Kinh doanh,30-50 triệu,Độc thân,Hồ Chí Minh,2022-03-14,6,10965303,1827550.0,2810,"Cửa hàng, Email Marketing"
+Trịnh Thị Quỳnh,36-45,Nữ,THPT,Quản lý,30-50 triệu,Ly hôn,Hồ Chí Minh,2022-06-03,1,4361620,4361620.0,185,"Online, Cửa hàng"
+Phan Văn Rồng,65+,Nam,Tiến sĩ,Bác sĩ,Trên 50 triệu,Kết hôn,Nha Trang,2022-10-14,7,16003964,2286281.0,1899,"Cửa hàng, Social Media"
+Võ Thị Sương,65+,Khác,Thạc sĩ,Freelancer,5-10 triệu,Kết hôn,Vũng Tàu,2022-10-31,7,13547163,1935309.0,36,"Cửa hàng, Social Media, Email Marketing"
+Lương Văn Tuấn,65+,Nam,Tiến sĩ,Giáo viên,Trên 50 triệu,Kết hôn,Nha Trang,2022-06-16,4,15852844,3963211.0,933,"Email Marketing, Điện thoại"
+Hồ Thị Uyên,56-65,Nữ,Tiến sĩ,Freelancer,Trên 50 triệu,Độc thân,Nha Trang,2022-06-30,14,15863251,1133089.0,1413,"Điện thoại, Online, Social Media"
